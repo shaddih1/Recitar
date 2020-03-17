@@ -13,3 +13,5 @@ function openPorts(){
   wait
   tput cnorm
 }
+
+openPorts
